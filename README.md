@@ -1,17 +1,28 @@
-# A Simple One-Page Portfolio Template
+## 作品一覧 / Projects
 
-### For integration anywhere
+### おみくじ（Webアプリ）
+- **使用技術**: HTML, CSS  
+- **概要**: ボタンクリックで結果画面が切り替わる、シンプルなおみくじアプリです。
+- **英語**:  
+  A simple fortune-drawing web app built with HTML and CSS. The screen changes to show the result when a button is clicked.
+- **公開リンク**: [(https://momoyumi.github.io/)]
 
-This is a simple one-page portfolio template for Developers and UI/UX pros
+---
 
-It's built in plain HTML and CSS so you can integrate it into any framework or just host it for free on Github pages.
+### 今日は何色？（Androidアプリ）
+- **使用技術**: MIT App Inventor  
+- **概要**: ボタンクリックで、設定された色名と画像が表示されるAndroidアプリです。
+- **英語**:  
+  An Android app that displays a preset color name and image when a button is clicked.
+- **APKまたは紹介ページ**: [(https://drive.google.com/file/d/17zltYYIa1tX28mr5tjP0imR3MgSwOTB9/view?usp=drivesdk
+)]
 
-# See it in action:
+---
 
-[https://ayushsarangithub.github.io/one-page-portfolios/](https://ayushsarangithub.github.io/one-page-portfolios/)
-
-[![https://simplenote-to-obsidian.fly.dev/](https://github.com/user-attachments/assets/6615efdb-2a2c-4f13-af43-6c0605a2fbd4)](https://ayushsarangithub.github.io/one-page-portfolios/)
-
-Feel free to fork this repo and tweak it to your liking
-
-https://ayushsarangithub.github.io/one-page-portfolios/
+### フード写真を載せるウェブサイト（Wixサイト）
+- **使用ツール**: Wix（ノーコード）  
+- **概要**: フード写真をアップロード・掲載するためのWebサイトです。
+- **英語**:  
+  A food photo sharing website built using the no-code platform Wix. Designed for uploading and displaying food images.
+- **サイトURL**: [WixサイトのURLをここに]
+)
